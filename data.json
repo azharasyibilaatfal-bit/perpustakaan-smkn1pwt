@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "U1",
+      "name": "Siswa Demo",
+      "email": "siswa@sekolah.id",
+      "password": "siswa123",
+      "role": "siswa"
+    },
+    {
+      "id": "U2",
+      "name": "Pengurus Perpustakaan",
+      "email": "pengurus@perpus.id",
+      "password": "admin123",
+      "role": "pengurus"
+    }
+  ],
+  "books": [
+    {
+      "id": "BK-001",
+      "title": "Matematika untuk SMK Kelas X",
+      "author": "Tim Edukasi",
+      "category": "Pelajaran",
+      "stock": 3
+    },
+    {
+      "id": "BK-002",
+      "title": "Bahasa Indonesia Kelas VIII",
+      "author": "Pusat Kurikulum",
+      "category": "Pelajaran",
+      "stock": 2
+    },
+    {
+      "id": "BK-003",
+      "title": "IPA Terpadu",
+      "author": "Tim Sains",
+      "category": "Sains",
+      "stock": 2
+    },
+    {
+      "id": "BK-004",
+      "title": "Ilmu Pengetahuan Sosial",
+      "author": "Tim IPS",
+      "category": "Sosial",
+      "stock": 2
+    },
+    {
+      "id": "BK-005",
+      "title": "English Daily Conversation",
+      "author": "English Team",
+      "category": "Bahasa",
+      "stock": 2
+    },
+    {
+      "id": "BK-006",
+      "title": "Kumpulan Cerita Nusantara",
+      "author": "R. Pratama",
+      "category": "Sastra",
+      "stock": 2
+    },
+    {
+      "id": "BK-007",
+      "title": "Pemrograman Dasar",
+      "author": "Digital Lab",
+      "category": "Teknologi",
+      "stock": 2
+    },
+    {
+      "id": "BK-008",
+      "title": "Pendidikan Agama Islam",
+      "author": "Tim PAI",
+      "category": "Agama",
+      "stock": 2
+    }
+  ],
+  "loans": []
+}
